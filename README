@@ -1,0 +1,11 @@
+# BUS-STOP-SIMUlATION
+Bus stop simulation is an open GL computer graphics project using open GL function it is a user interactive program where in the 
+user can view the required display by making use of the input devices like keyboard and mouse. 
+These computer graphic project mainly consists of human and bus. 
+The man made to sit on the bus, so that it looks like a man is travelling in the bus the bus is moved by using keyboard or mouse It
+is a computer graphics project made using visual studio.in these project it shows about bus stop. 
+In this post I am going to show the open GL code on bus stop using the computer graphics and Open GL API.
+There is a bus stop where the bus pics up a girl and moves her to the college gate
+The problem here is that after moving the bus to the parking plotted us not end the animation.
+we need to end the window manually . 
+
